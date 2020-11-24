@@ -4,3 +4,4 @@
 ## Resources for challenges:
 - codesignal.com
 - dailycodingproblem.com
+- sqlbolt.com
